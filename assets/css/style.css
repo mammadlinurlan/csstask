@@ -1,0 +1,46 @@
+* {
+    margin: 5px;
+    padding: 0px;
+}
+
+h1,
+#jobtitel {
+    margin-left: 220px;
+}
+
+#mail {
+    margin-left: 215px;
+}
+
+#education,
+#language,
+#itskills,
+#workexperience,
+#otherprojects {
+    color: burlywood;
+}
+
+.box {
+    width: 400px;
+    height: 770px;
+    padding-left: 10px;
+    margin-top: 20px;
+
+    margin-left: 220px;
+    border-left: 3px dashed chocolate;
+
+    display: inline-block;
+}
+
+.image {
+    background-image: url(https://image.winudf.com/v2/image1/Y29tLmljeXJlcHN0b3Jpb24udHJhdmlzX3NjcmVlbl8wXzE2MDA3ODU0NzlfMDAx/screen-0.jpg?fakeurl=1&type=.jpg);
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    margin-left: 10px;
+    margin-bottom: -150px;
+
+    border-radius: 50%;
+}
